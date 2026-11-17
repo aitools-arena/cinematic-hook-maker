@@ -1,0 +1,13 @@
+{
+  "name": "cinematic-hook-maker",
+  "owner": { "name": "aitools-arena" },
+  "metadata": { "description": "The Cinematic Hook Maker: an AI film studio built around the hook, on Artlist with Kling 4.0 and GPT Image 2.5." },
+  "plugins": [
+    {
+      "name": "cinematic-hook-maker",
+      "source": "./plugins/cinematic-hook-maker",
+      "description": "Design and render scroll-stopping video hooks and full AI films through Artlist (Kling 4.0, GPT Image 2.5), guided step by step.",
+      "version": "1.0.0"
+    }
+  ]
+}

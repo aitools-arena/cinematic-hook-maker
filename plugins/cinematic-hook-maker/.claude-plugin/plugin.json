@@ -1,0 +1,9 @@
+{
+  "name": "cinematic-hook-maker",
+  "description": "Design and render scroll-stopping video hooks and full AI films through Artlist (Kling 4.0, GPT Image 2.5), guided step by step.",
+  "version": "1.0.0",
+  "author": { "name": "aitools-arena" },
+  "homepage": "https://github.com/aitools-arena/cinematic-hook-maker",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["video", "hook", "tiktok", "reels", "ai-film", "artlist", "kling", "gpt-image"]
+}
